@@ -1,0 +1,16 @@
+{
+  "name": "discord-oneri-sikayet-botu",
+  "version": "1.0.0",
+  "description": "Discord Öneri Şikayet Botu",
+  "main": "astro.js",
+  "scripts": {
+    "start": "node astro.js",
+    "test": "node astro.js"
+  },
+  "author": "astro",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "discord.js": "^14.0.0"
+  }
+}
